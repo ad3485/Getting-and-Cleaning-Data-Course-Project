@@ -1,0 +1,18 @@
+CodeBook markdown file for tidy data variables
+Variables:
+
+featurestxt : features.txt file
+activitylabels : activity_labels.txt file
+subject_test : subject_test.txt file
+X_test : X_test.txt
+Y_test : Y_test.txt
+X_train : train/X_train.txt
+Y_train : train/Y_train.txt
+subject_train : subject_train.txt
+Y_test_label
+Y_train_label 
+tidy_test : binds test subject, activity and set
+data_train : binds train subject, activity and set
+tidy_set : merges test set and train set
+meanandsd - mean and standard deviation calculations for each variable
+avg - the average of each variable 
